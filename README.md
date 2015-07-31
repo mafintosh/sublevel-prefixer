@@ -6,6 +6,8 @@ Prefix a key with a sublevel prefix
 npm install sublevel-prefixer
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/sublevel-prefixer.svg?style=flat)](http://travis-ci.org/mafintosh/sublevel-prefixer)
+
 ## Usage
 
 ``` js
