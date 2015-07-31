@@ -1,6 +1,6 @@
 {
   "name": "sublevel-prefixer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prefix a key with a sublevel prefix",
   "main": "index.js",
   "dependencies": {},
